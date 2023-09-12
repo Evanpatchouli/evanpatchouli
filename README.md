@@ -1,8 +1,5 @@
 ### Hi there 👋 Welcome!
 
-<!--
-**Evanpatchouli/evanpatchouli** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 My nick is Evanpatchouli, a graduate student majored in Software Engineering from HangZhou in China. 💎
 
 I like coding and am proficient at several different programmar languages and tools: 
